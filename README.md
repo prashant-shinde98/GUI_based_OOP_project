@@ -1,4 +1,3 @@
-# GUI_based_OOP_project
 # GUI-Based NLP Application
 
 ## Description
